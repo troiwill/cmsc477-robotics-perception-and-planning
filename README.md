@@ -1,4 +1,5 @@
-# CMSC477 - Robotics: Perception and Planning (Spring 2026)
+# CMSC477 - Robotics: Perception and Planning  
+## Spring 2026
 
 **Instructor:** Dr. Troi Williams (troiw@umd.edu)  
 **Teaching Assistants:** Anukriti Singh (anukriti@umd.edu)  
@@ -89,7 +90,7 @@ Contact the instructor if you have any questions or concerns about the syllabus.
 
 ## Tentative Course Schedule
 
-*Be mindful of due dates!*
+*Be mindful of due dates and the final exam!*
 
 | Date | Day | Event / Topic |
 | :--- | :--- | :--- |
@@ -101,3 +102,10 @@ Contact the instructor if you have any questions or concerns about the syllabus.
 | <br>**2/10**<br><br> | <br>Tues<br><br> | <br>**HW 1 Begins:** Implement BFS, DFS, Dijkstra<br>Graph-based Path Planning (Lecture)<br><br> |
 | **2/12** | Thurs | Graph-based Path Planning |
 | <br>**2/13**<br><br> | <br>Fri<br><br> | <br>**Project 0 is Due**<br>**Project 1 Begins:** Navigating a Maze with a Map<br><br> |
+| <br>**3/6**<br><br> | <br>Fri<br><br> | <br>**Homework 1 is Due**<br><br> |
+| <br>**3/13**<br><br> | <br>Fri<br><br> | <br>**Project 1 is Due**<br>**Project 2 Begins:** Pick and Place around Obstacle<br><br> |
+| <br>**3/15-22**<br><br> | Sun-Sun| <br>**Spring Break** - Enjoy and be safe!<br><br> |
+| <br>**4/10**<br><br> | <br>Fri<br><br> | <br>**Project 2 is Due**<br>**Project 3 Begins:** Competition!<br><br> |
+| <br>**5/4**<br><br> | <br>Mon<br><br> | <br>**Competition - Section 1**<br><br> |
+| <br>**5/6**<br><br> | <br>Wed<br><br> | <br>**Competition - Section 2**<br><br> |
+| **5/14** | Thurs | **Final Exam** (10:30am - 12:30pm) |
