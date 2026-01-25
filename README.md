@@ -22,18 +22,6 @@ There is one final examination, one homework, and 4 projects with the projects m
 
 ---
 
-## Schedule Overview
-
-### Lecture Schedule
-* **Tuesdays & Thursdays:** 2:00pm – 2:50pm
-
-### Lab Schedule
-* **Section 0101:** Monday 2:00pm – 4:50pm  
-* **Section 0102:** Wednesday 2:30pm – 5:20pm  
-* *Note: One TA will be present during each lab session.*
-
----
-
 ## Assignments
 
 ### Assignment Percentages
@@ -88,9 +76,19 @@ Contact the instructor if you have any questions or concerns about the syllabus.
 
 ---
 
-## Tentative Course Schedule
+## Course Schedule
 
 *Be mindful of due dates and the final exam!*
+
+### Lecture Schedule
+* **Tuesdays & Thursdays:** 2:00pm – 2:50pm
+
+### Lab Schedule
+* **Section 0101:** Monday 2:00pm – 4:50pm  
+* **Section 0102:** Wednesday 2:30pm – 5:20pm  
+* *Note: One TA will be present during each lab session.*
+
+### Tentative Topics and Events
 
 | Date | Day | Event / Topic |
 | :--- | :--- | :--- |
