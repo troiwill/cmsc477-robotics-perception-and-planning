@@ -89,15 +89,15 @@ Contact the instructor if you have any questions or concerns about the syllabus.
 
 ## Tentative Course Schedule
 
+*Be mindful of due dates!*
+
 | Date | Day | Event / Topic |
 | :--- | :--- | :--- |
-| **1/27** | Tues | Introduction, Lab Logistics |
-| **1/29** | Thurs | Introduction, Lab Logistics |
+| **1/27** | Tues | Introduction and Lab Logistics |
+| **1/29** | Thurs | Introduction and Lab Logistics |
 | <br>**2/2**<br><br> | <br>Mon<br><br> | <br>**Project 0 Begins:** PID control using AprilTags<br><br> |
 | **2/3** | Tues | Graph-based Path Planning |
 | **2/5** | Thurs | Graph-based Path Planning |
-| <br>**2/10**<br><br> | <br>Tues<br><br> | <br>**Begins:** HW1 - Implement BFS, DFS, Dijkstra<br>Graph-based Path Planning (Lecture)<br><br> |
+| <br>**2/10**<br><br> | <br>Tues<br><br> | <br>**HW 1 Begins:** Implement BFS, DFS, Dijkstra<br>Graph-based Path Planning (Lecture)<br><br> |
 | **2/12** | Thurs | Graph-based Path Planning |
-| <br>**2/13**<br><br> | <br>Fri<br><br> | <br>**Due:** Project 0<br>**Begin:** Project 1 - Navigating a Maze with a Map<br><br> |
-| **2/17** | Tues | Intro to Image Processing |
-| **2/19** | Thurs | Camera Models and Camera Calibration |
+| <br>**2/13**<br><br> | <br>Fri<br><br> | <br>**Project 0 is Due**<br>**Project 1 Begins:** Navigating a Maze with a Map<br><br> |
