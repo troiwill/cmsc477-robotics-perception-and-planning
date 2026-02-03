@@ -2,7 +2,7 @@
 ## Spring 2026
 
 **Instructor:** Dr. Troi Williams (troiw@umd.edu)  
-**Teaching Assistants:** Anukriti Singh (anukriti@umd.edu)  
+**Teaching Assistants:** Anukriti Singh (anukriti@umd.edu), Khuzema Habib (khabib@umd.edu)  
 **Lab Manager:** Ivan Penskiy (ipenskiy@umd.edu)
 
 ---
