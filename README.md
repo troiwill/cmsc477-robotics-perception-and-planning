@@ -84,22 +84,24 @@ Contact the instructor if you have any questions or concerns about the syllabus.
 * **Tuesdays & Thursdays:** 2:00pm – 2:50pm
 
 ### Lab Schedule
-* **Section 0101:** Monday 2:00pm – 4:50pm  
-* **Section 0102:** Wednesday 2:30pm – 5:20pm  
+* **Section 0101:** Monday 2:00pm – 4:50pm (Khuzema Habib)  
+* **Section 0102:** Wednesday 2:30pm – 5:20pm (Anukriti Singh)  
 * *Note: One TA will be present during each lab session.*
 
 ### Tentative Topics and Events
 
 | Date | Day | Event / Topic |
 | :--- | :--- | :--- |
-| **1/27** | Tues | Introduction and Lab Logistics |
-| **1/29** | Thurs | Introduction and Lab Logistics |
-| <br>**2/2**<br><br> | <br>Mon<br><br> | <br>**Project 0 Begins:** PID control using AprilTags<br><br> |
-| **2/3** | Tues | Graph-based Path Planning |
-| **2/5** | Thurs | Graph-based Path Planning |
-| <br>**2/10**<br><br> | <br>Tues<br><br> | <br>**HW 1 Begins:** Implement BFS, DFS, Dijkstra<br>Graph-based Path Planning (Lecture)<br><br> |
+| **1/27** | Tues | **Classes canceled due to storm** |
+| **1/29** | Thurs | **Classes canceled due to storm** |
+| **2/3** | Tues | Course Introduction |
+| **2/5** | Thurs | Course and Lab Logistics |
+| <br>**2/9**<br><br> | <br>Mon<br><br> | <br>**Project 0 Begins:** PID control using AprilTags<br><br> |
+| **2/10** | Tues | Graph-based Path Planning |
 | **2/12** | Thurs | Graph-based Path Planning |
-| <br>**2/13**<br><br> | <br>Fri<br><br> | <br>**Project 0 is Due**<br>**Project 1 Begins:** Navigating a Maze with a Map<br><br> |
+| <br>**2/17**<br><br> | <br>Tues<br><br> | <br>**HW 1 Begins:** Implement BFS, DFS, Dijkstra<br>Graph-based Path Planning (Lecture)<br><br> |
+| **2/19** | Thurs | Graph-based Path Planning |
+| <br>**2/20**<br><br> | <br>Fri<br><br> | <br>**Project 0 is Due**<br>**Project 1 Begins:** Navigating a Maze with a Map<br><br> |
 | <br>**3/6**<br><br> | <br>Fri<br><br> | <br>**Homework 1 is Due**<br><br> |
 | <br>**3/13**<br><br> | <br>Fri<br><br> | <br>**Project 1 is Due**<br>**Project 2 Begins:** Pick and Place around Obstacle<br><br> |
 | <br>**3/15-22**<br><br> | Sun-Sun| <br>**Spring Break** - Enjoy and be safe!<br><br> |
