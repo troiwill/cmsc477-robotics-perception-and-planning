@@ -15,10 +15,16 @@ The course is a hands-on introduction to perception and planning for robotics. T
 There is one final examination, one homework, and 4 projects with the projects making up a large portion of the coursework. The projects are worked on during lab sessions.
 
 
+### Robotic System
+
+RoboMaster by DJI. See [RoboMaster SDK doc](./RoboMasterSDK.md) for links to the documentation, website, and FAQs. If you experienced any issues with the robot and solved them, please post about it on ELMS so that we can update the FAQs section.
+
+
 ### Prerequisites
 * **For RAS minor students:** Linear Algebra (MATH240 or MATH461) and ENEE467.
 * **For non-minor CS students:** CMSC420.
 * **Requirement:** Must be in the Robotics and Autonomous Systems minor or have department permission.
+
 
 ---
 
