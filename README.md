@@ -90,8 +90,8 @@ Contact the instructor if you have any questions or concerns about the syllabus.
 * **Tuesdays & Thursdays:** 2:00pm – 2:50pm
 
 ### Lab Schedule
-* **Section 0101:** Monday 2:00pm – 4:50pm (Khuzema Habib)  
-* **Section 0102:** Wednesday 2:30pm – 5:20pm (Anukriti Singh)  
+* **Section 0101:** Mondays 2:00pm – 4:50pm (Khuzema Habib - khabib@umd.edu)  
+* **Section 0102:** Wednesdays 2:30pm – 5:20pm (Anukriti Singh - anukriti@umd.edu)  
 * *Note: One TA will be present during each lab session.*
 
 ### Tentative Topics and Events
@@ -114,4 +114,5 @@ Contact the instructor if you have any questions or concerns about the syllabus.
 | <br>**4/10**<br><br> | <br>Fri<br><br> | <br>**Project 2 is Due**<br>**Project 3 Begins:** Competition!<br><br> |
 | <br>**5/4**<br><br> | <br>Mon<br><br> | <br>**Competition - Section 1**<br><br> |
 | <br>**5/6**<br><br> | <br>Wed<br><br> | <br>**Competition - Section 2**<br><br> |
+| <br>**5/8**<br><br> | <br>Fri<br><br> | <br>**Course Evaluations are Due**<br><br> |
 | **5/14** | Thurs | **Final Exam** (10:30am - 12:30pm) |
