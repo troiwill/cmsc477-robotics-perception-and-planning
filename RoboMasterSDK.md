@@ -22,4 +22,4 @@ Known Issues:
 
 3. Robot doesn't connect to the qr code. Solution : Restart the robot or try with another laptop, this can be a little finicky
 
-Coming Soon.
+
