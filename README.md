@@ -108,6 +108,8 @@ Contact the instructor if you have any questions or concerns about the syllabus.
 | <br>**2/17**<br><br> | <br>Tues<br><br> | <br>**HW 1 Begins:** Implement BFS, DFS, Dijkstra<br>Graph-based Path Planning (Lecture)<br><br> |
 | **2/19** | Thurs | Graph-based Path Planning |
 | <br>**2/20**<br><br> | <br>Fri<br><br> | <br>**Project 0 is Due**<br>**Project 1 Begins:** Navigating a Maze with a Map<br><br> |
+| **2/24** | Tues | Sampling-based Path Planning (Lecture 06) |
+| **2/26** | Thurs | Sampling-based Path Planning (Lecture 07) |
 | <br>**3/6**<br><br> | <br>Fri<br><br> | <br>**Homework 1 is Due**<br><br> |
 | <br>**3/13**<br><br> | <br>Fri<br><br> | <br>**Project 1 is Due**<br>**Project 2 Begins:** Pick and Place around Obstacle<br><br> |
 | <br>**3/15-22**<br><br> | Sun-Sun| <br>**Spring Break** - Enjoy and be safe!<br><br> |
