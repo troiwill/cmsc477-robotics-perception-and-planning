@@ -111,6 +111,8 @@ Contact the instructor if you have any questions or concerns about the syllabus.
 | **2/24** | Tues | Sampling-based Path Planning (Lecture 06) |
 | **2/26** | Thurs | Sampling-based Path Planning (Lecture 07) |
 | <br>**3/6**<br><br> | <br>Fri<br><br> | <br>**Homework 1 is Due**<br><br> |
+| **3/10** | Tues | Extra Lab Day (Section 0101) |
+| **3/12** | Thurs | Extra Lab Day (Section 0102) |
 | <br>**3/13**<br><br> | <br>Fri<br><br> | <br>**Project 1 is Due**<br>**Project 2 Begins:** Pick and Place around Obstacle<br><br> |
 | <br>**3/15-22**<br><br> | Sun-Sun| <br>**Spring Break** - Enjoy and be safe!<br><br> |
 | <br>**4/10**<br><br> | <br>Fri<br><br> | <br>**Project 2 is Due**<br>**Project 3 Begins:** Competition!<br><br> |
